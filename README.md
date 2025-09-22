@@ -39,8 +39,7 @@ The program provides **friendly, descriptive output** and rounds numerical resul
 
 ---
 ## Folder Structure
-📁 Elevate-Labs/
-└─ 📂 src/
+📂 src/
    └─ 📂 task1_calculator/
       ├─ 📄 Calculator.java
       └─ 📄 Main.java
